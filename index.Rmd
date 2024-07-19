@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Feux Meta-Analysis Results"
+author: "Nick Napolitano"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
